@@ -1,6 +1,6 @@
 <#import "/templates/system/common/crafter.ftl" as crafter />
 
-<!-- Feature Component -->
+<!-- Feature Cossssmponent -->
 <@crafter.article class="feature">
   <@crafter.span class="icon ${contentModel.icon_s}" $field="icon_s"/>
   <div class="content">
